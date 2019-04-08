@@ -11,7 +11,7 @@
     "dev": "concurrently \"npm run server\" \"npm run client\"",
     "heroku-postbuild": "echo Skip build on Heroku"
   },
-  "author": "Andrew Errity",
+  "author": "Peter Byrne",
   "license": "ISC",
   "dependencies": {
     "axios": "^0.18.0",
